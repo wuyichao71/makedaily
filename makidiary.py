@@ -92,7 +92,7 @@ class Diarydata:
 
 
 if __name__ == '__main__':
-    hapo = Makidiary('hapo', 'fghj13579')
+    hapo = Makidiary('hapo', 'xxxxxxxx')
     hapo.get_token()
     print(hapo.token)
     hapo.get_user_id()
