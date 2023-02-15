@@ -1,2 +1,2 @@
-# makedaily
-program for update daily in maki-lab website
+# makidiary
+program for update diary in maki-lab website
